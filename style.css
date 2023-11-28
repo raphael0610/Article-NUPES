@@ -1,0 +1,56 @@
+h1{   
+color : #465775;
+font-size : 34px;
+font-family : Helvetica; 
+} 
+
+h2{ 
+color : #465775; 
+font-size : 20px;
+font-family : Helvetica;
+}
+
+h3{
+color : #424B54; 
+font-size : 15px;
+font-family : Helvetica;
+}
+
+body{ 
+
+	background-color: #C5BAAF;
+	text-align: justify;
+	font-size: 20px;
+	border: 2px solid #465775;
+	padding: 100px  200px;
+	margin: 100px 200px; 
+}
+
+
+.center {
+	text-align: center;
+
+}
+
+
+.img {
+	width: 600px;
+}
+
+
+#lien_X{
+	color: #465775;
+	text-decoration: none;
+}
+
+#lien_X:hover{ color: #9D44B5
+} 
+
+
+
+
+
+#desc{ 
+	font-family: Helvetica;
+	font-size: 10px; 
+}
